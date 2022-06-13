@@ -131,6 +131,14 @@ a {
   visibility: hidden;
 }
 
+.mc-yellow {
+  color: #fcbb22;
+}
+
+.mc-red {
+  color: #bf0d0d;
+}
+
 @media screen and (max-width: 1000px) {
   .popup {
     width: 80%;

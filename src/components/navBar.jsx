@@ -41,11 +41,6 @@ const NavBar = () => {
               Your orders
             </NavLink>
           </li>
-          <li className='nav-item'>
-            <NavLink className='nav-link' to='/track'>
-              Track your order
-            </NavLink>
-          </li>
         </ul>
       </div>
     </nav>
